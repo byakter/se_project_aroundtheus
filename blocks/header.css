@@ -1,2 +1,10 @@
 .header {
+    margin-top: 45px;
+}
+.header__logo{
+    margin-top: 0;
+    margin-bottom: 41px;
+}
+.header__line{
+    margin-bottom: 0;
 }
