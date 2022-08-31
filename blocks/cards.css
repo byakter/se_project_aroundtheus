@@ -45,4 +45,5 @@ align-items: center;
   border: none;
   background-color: #fff;
   align-items: center;
+  display: flex;
 }
