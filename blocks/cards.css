@@ -4,14 +4,15 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 17px;
+  
 }
 .cards__card {
   width: 282px;
   height: 361px;
   background-color: #fff;
   border-radius: 10px;
-}
 
+}
 .cards__image {
   width: 282px;
   height: 282px;
@@ -24,9 +25,16 @@
   font-weight: 900;
   font-size: 24px;
   line-height: 29px;
-  text-align: center;
+text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
   align-items: center;
 }
-.cards__icon {
-  color: #000;
+.cards__footer{
+  display: flex;
+align-self: start;
+  justify-content: space-around;
+  flex-grow: 1;
+  min-width: 0;
+ 
 }
