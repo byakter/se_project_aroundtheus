@@ -1,12 +1,22 @@
 .footer{
-    color: #545454;
-    font-family: "Inter", "Arial", sans-serif;
-    font-style: normal;
+  margin: 0 auto;
+}
+
+.footer__title{
+  color: #545454;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
   margin-top: 67px;
-  margin-left: 0;
   margin-bottom: 60px;
-  margin-right:auto;
+  
+}
+
+@media screen and (max-width: 595px) {
+  .footer__title{
+    font-size: 14px;
+    line-height: 17px;
+    margin: 48px auto 36px ;
+    max-width: 320px;
+  }
 }
