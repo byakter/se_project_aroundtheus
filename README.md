@@ -22,6 +22,11 @@ link to this website :
 -Positioning
 -Media Querires
 
+Screenshot 1280px resolution
+
+![Screenshot 1280px](https://user-images.githubusercontent.com/109795934/189763195-a11408e9-9991-4cd3-b5e3-4c91c9c2def7.png)
 
 
+Screenshot 375px resolution
 
+![Screenshot 375px](https://user-images.githubusercontent.com/109795934/189763359-fa5b6151-9de2-42bc-9f58-85c46fe38351.png)
