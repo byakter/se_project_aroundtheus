@@ -76,10 +76,14 @@
  margin-left: 18px;
  align-self: center;
  margin-top: 7px;
+ display: flex;
+ justify-content: center;
+  align-items: center;
 }
 .profile__edit-button-vector{
   width: 10px;
   height: 10px;
+  
  
 }
 .profile__edit-button:hover{
@@ -90,9 +94,7 @@
 }
 
 @media screen and (max-width: 900px) {
-  .profile{
-    margin: 0 auto;
- }
+  
 
  .profile__button{
   margin-left: 10px;
