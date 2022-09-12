@@ -11,7 +11,7 @@ This is my 3rd project of the Web Development at Practicum. It was created using
   
 This project is made so all the elements are displayed correctly on popular screen sizes. 
   
-link to this website : 
+link to this website : https://github.com/byakter/se_project_aroundtheus.git
 
 **Features**
 -semantic HTML5
@@ -21,6 +21,7 @@ link to this website :
 -Flat BEM
 -Positioning
 -Media Querires
+
 
 
 
