@@ -14,7 +14,7 @@
   height: 361px;
   background-color: #fff;
   border-radius: 10px;
- overflow: hidden;
+  overflow: hidden;
 
 }
 .cards__image {
@@ -36,8 +36,8 @@
 }
 .cards__footer{
   display: flex;
-align-items: center; 
- flex-grow: 1;
+  align-items: center; 
+  flex-grow: 1;
   min-width: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -46,8 +46,8 @@ align-items: center;
 @media screen and (max-width: 595px){
   .cards {
     grid-template-columns: 1fr;
-    grid-template-rows: 6;
-    max-width: calc(100% -38px);
+    grid-template-rows:  ( 6 );
+    max-width: calc( 100% -38px );
     margin: auto;
   }
  @media screen and(max-width: 900px) {
