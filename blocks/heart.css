@@ -3,6 +3,7 @@
   background-color: #fff;
   border: none;
   padding: 0;
+  cursor: pointer;
 }
 
 .heart__image:hover {
