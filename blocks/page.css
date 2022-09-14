@@ -5,7 +5,6 @@
   margin: 0 auto;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
-
 }
 
 .page__content {
@@ -15,15 +14,7 @@
 }
 
 @media screen and (max-width: 900px) {
-  .page__content{
-  max-width: 600px;
+  .page__content {
+    max-width: 600px;
   }
-  
-}
-
-@media screen and (max-width: 595px) {
-  .page{
-    margin: 0 auto;
-  }
-  
 }
