@@ -38,7 +38,6 @@
   font-size: 18px;
   line-height: 22px;
   margin-top: 16px;
-  margin-bottom: 24.75px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
@@ -102,6 +101,7 @@
 
   .profile__title {
     text-align: center;
+    
   }
 }
 
